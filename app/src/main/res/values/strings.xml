@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dubaothoitiet</string>
+    <string name="name">Hồ Long Doan - Nhóm 8</string>
+    <array name="chon">
+        <item>Danang</item>
+        <item>Tp.HCM</item>
+    </array>
+</resources>
