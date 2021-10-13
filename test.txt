@@ -1,3 +1,0 @@
-Tạo thử 1 file test.txt
-Pull thử lên trang http://github.com
-Dung SmartGit
